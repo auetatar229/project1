@@ -1,0 +1,20 @@
+body {
+    font: 500 18px Verdana, Times, sans-serif;
+}
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+    border: 2px solid rgba(58, 124, 209, 0);
+    background-color: white;
+}
+
+.header {
+    border-bottom: 2px solid grey;
+    background-color: rgba(194, 201, 207, 0.308);
+    margin-bottom: 10px;
+    border: 2px solid rgba(58, 124, 209, 0);
+    border-radius: 30px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
